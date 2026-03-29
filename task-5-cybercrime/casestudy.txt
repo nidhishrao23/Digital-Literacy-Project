@@ -1,0 +1,7 @@
+Case Study (Phishing)
+
+Phishing is a common cybercrime where attackers trick people into revealing sensitive information such as passwords, bank details, or OTPs. This usually happens through fake emails, messages, or websites that appear legitimate. For example, a student may receive an email that looks like it came from a bank asking them to verify their account information. The email includes a link that leads to a fake website designed to steal login credentials.
+
+Phishing attacks often target students and young internet users because they frequently use online services and may not recognize suspicious messages. Once the attacker obtains the victim's credentials, they can access accounts, steal money, or misuse personal data.
+
+The consequences of phishing can include financial loss, identity theft, and unauthorized access to personal accounts. In many cases, victims realize the fraud only after money has been transferred or accounts have been compromised.
