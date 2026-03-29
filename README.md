@@ -1,9 +1,7 @@
-# Digital-Literacy-Project
 # Digital Literacy Portfolio
-
-Name: Your Name
-Reg No: Your Registration Number
-Branch: B.Tech CSE
+Name: Nidhish Rao
+Reg No: 25BCY10132
+Branch: B.Tech CSE(cyber security and digital forensics)
 University: VIT Bhopal
 
 ## Project Overview
@@ -15,6 +13,3 @@ Task 2 – Digital Portfolio Setup
 Task 3 – Coding Platform Exploration & Google Form
 Task 4 – Professional Email & Social Media Etiquette
 Task 5 – Cybercrime Awareness Case Study
-
-## Google Form Link
-Paste your form link here
